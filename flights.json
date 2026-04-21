@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A1B2C3D4-1234-5678-90AB-CDEF12345678",
+    "destination": "Sydney",
+    "flightNumber": "AE101",
+    "iconName": "building.2.fill",
+    "description": "Direct flight to the Harbour City."
+  },
+  {
+    "id": "F5E6D7C8-1234-5678-90AB-CDEF12345678",
+    "destination": "Melbourne",
+    "flightNumber": "AE204",
+    "iconName": "cup.and.saucer.fill",
+    "description": "Experience the coffee capital."
+  },
+  {
+    "id": "90AB12CD-1234-5678-90AB-CDEF12345678",
+    "destination": "Brisbane",
+    "flightNumber": "AE302",
+    "iconName": "sun.max.fill",
+    "description": "Sunny getaways await."
+  },
+  {
+    "id": "EF345678-1234-5678-90AB-CDEF12345678",
+    "destination": "Perth",
+    "flightNumber": "AE411",
+    "iconName": "sunset.fill",
+    "description": "Beautiful west coast sunsets."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "L1B2C3D4-1234-5678-90AB-CDEF12345678",
+    "name": "Sydney Lounge",
+    "latitude": -33.9399,
+    "longitude": 151.1753
+  },
+  {
+    "id": "L5E6D7C8-1234-5678-90AB-CDEF12345678",
+    "name": "Melbourne Lounge",
+    "latitude": -37.6690,
+    "longitude": 144.8410
+  },
+  {
+    "id": "L90AB12C-1234-5678-90AB-CDEF12345678",
+    "name": "Brisbane Lounge",
+    "latitude": -27.3942,
+    "longitude": 153.1218
+  },
+  {
+    "id": "LEF34567-1234-5678-90AB-CDEF12345678",
+    "name": "Perth Lounge",
+    "latitude": -31.9385,
+    "longitude": 115.9672
+  }
+]
