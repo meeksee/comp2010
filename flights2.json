@@ -74,7 +74,7 @@
     "id": "0A1B2C3D-4E5F-6789-ABCD-1234567890AB",
     "destination": "Alice Springs",
     "flightNumber": "AE1103",
-    "iconName": "desert.hills.fill",
+    "iconName": "sun.dust.circle",
     "description": "Explore the heart of Australia."
   },
   {
@@ -123,7 +123,7 @@
     "id": "708192A3-BCDE-FA23-4567-89ABCDE01234",
     "destination": "Rockhampton",
     "flightNumber": "AE1810",
-    "iconName": "cow.fill",
+    "iconName": "wind.circle.fill",
     "description": "Australia’s beef capital."
   },
   {
@@ -193,7 +193,7 @@
     "id": "23456789-ABCD-EF01-2345-6789ABCDE012",
     "destination": "Toowoomba",
     "flightNumber": "AE2820",
-    "iconName": "flower.fill",
+    "iconName": "sailboat.circle.fill",
     "description": "Garden City of Queensland."
   },
   {
