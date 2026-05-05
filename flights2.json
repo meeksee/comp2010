@@ -1,0 +1,206 @@
+[
+  {
+    "id": "A1B2C3D4-1234-5678-90AB-CDEF12345678",
+    "destination": "Sydney",
+    "flightNumber": "AE101",
+    "iconName": "building.2.fill",
+    "description": "Direct flight to the Harbour City."
+  },
+  {
+    "id": "F5E6D7C8-1234-5678-90AB-CDEF12345678",
+    "destination": "Melbourne",
+    "flightNumber": "AE204",
+    "iconName": "cup.and.saucer.fill",
+    "description": "Experience the coffee capital."
+  },
+  {
+    "id": "90AB12CD-1234-5678-90AB-CDEF12345678",
+    "destination": "Brisbane",
+    "flightNumber": "AE302",
+    "iconName": "sun.max.fill",
+    "description": "Sunny getaways await."
+  },
+  {
+    "id": "EF345678-1234-5678-90AB-CDEF12345678",
+    "destination": "Perth",
+    "flightNumber": "AE411",
+    "iconName": "sunset.fill",
+    "description": "Beautiful west coast sunsets."
+  },
+
+  {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "destination": "Adelaide",
+    "flightNumber": "AE512",
+    "iconName": "leaf.fill",
+    "description": "Discover the city of churches."
+  },
+  {
+    "id": "66666666-7777-8888-9999-AAAAAAAAAAAA",
+    "destination": "Canberra",
+    "flightNumber": "AE603",
+    "iconName": "building.columns.fill",
+    "description": "Visit the nation's capital."
+  },
+  {
+    "id": "BBBBBBBB-CCCC-DDDD-EEEE-FFFFFFFFFFFF",
+    "destination": "Darwin",
+    "flightNumber": "AE714",
+    "iconName": "tortoise.fill",
+    "description": "Gateway to the Top End."
+  },
+  {
+    "id": "12345678-90AB-CDEF-1234-567890ABCDEF",
+    "destination": "Hobart",
+    "flightNumber": "AE820",
+    "iconName": "snowflake",
+    "description": "Cool climate and historic charm."
+  },
+  {
+    "id": "ABCDEF12-3456-7890-ABCD-EF1234567890",
+    "destination": "Gold Coast",
+    "flightNumber": "AE901",
+    "iconName": "wave.3.forward",
+    "description": "Surf, theme parks, and sunshine."
+  },
+  {
+    "id": "FEDCBA98-7654-3210-FEED-C0FFEE123456",
+    "destination": "Cairns",
+    "flightNumber": "AE1002",
+    "iconName": "tropicalstorm",
+    "description": "Gateway to the Great Barrier Reef."
+  },
+  {
+    "id": "0A1B2C3D-4E5F-6789-ABCD-1234567890AB",
+    "destination": "Alice Springs",
+    "flightNumber": "AE1103",
+    "iconName": "desert.hills.fill",
+    "description": "Explore the heart of Australia."
+  },
+  {
+    "id": "1A2B3C4D-5E6F-7081-92AB-CDEF10293847",
+    "destination": "Broome",
+    "flightNumber": "AE1204",
+    "iconName": "beach.umbrella.fill",
+    "description": "Relax on Cable Beach."
+  },
+  {
+    "id": "2B3C4D5E-6F70-8192-A3BC-DEF123987654",
+    "destination": "Newcastle",
+    "flightNumber": "AE1305",
+    "iconName": "ferry.fill",
+    "description": "Coastal living and vibrant culture."
+  },
+  {
+    "id": "3C4D5E6F-7081-92A3-BCDE-F123456789AB",
+    "destination": "Wollongong",
+    "flightNumber": "AE1406",
+    "iconName": "mountain.2.fill",
+    "description": "Beaches and escarpment views."
+  },
+  {
+    "id": "4D5E6F70-8192-A3BC-DEFA-23456789ABCD",
+    "destination": "Geelong",
+    "flightNumber": "AE1507",
+    "iconName": "tram.fill",
+    "description": "Gateway to the Great Ocean Road."
+  },
+  {
+    "id": "5E6F7081-92A3-BCDE-FA23-456789ABCDE0",
+    "destination": "Townsville",
+    "flightNumber": "AE1608",
+    "iconName": "wind",
+    "description": "Tropical adventures await."
+  },
+  {
+    "id": "6F708192-A3BC-DEFA-2345-6789ABCDE012",
+    "destination": "Launceston",
+    "flightNumber": "AE1709",
+    "iconName": "tree.fill",
+    "description": "Historic streets and natural beauty."
+  },
+  {
+    "id": "708192A3-BCDE-FA23-4567-89ABCDE01234",
+    "destination": "Rockhampton",
+    "flightNumber": "AE1810",
+    "iconName": "cow.fill",
+    "description": "Australia’s beef capital."
+  },
+  {
+    "id": "8192A3BC-DEFA-2345-6789-ABCDE0123456",
+    "destination": "Mackay",
+    "flightNumber": "AE1911",
+    "iconName": "cloud.sun.fill",
+    "description": "Whitsunday gateway."
+  },
+  {
+    "id": "92A3BCDE-FA23-4567-89AB-CDE012345678",
+    "destination": "Ballina",
+    "flightNumber": "AE2012",
+    "iconName": "fish.fill",
+    "description": "Byron Bay region access."
+  },
+  {
+    "id": "A3BCDEFA-2345-6789-ABCD-E0123456789A",
+    "destination": "Sunshine Coast",
+    "flightNumber": "AE2113",
+    "iconName": "sun.haze.fill",
+    "description": "Relaxed coastal lifestyle."
+  },
+  {
+    "id": "BCDEFA23-4567-89AB-CDE0-123456789ABC",
+    "destination": "Port Macquarie",
+    "flightNumber": "AE2214",
+    "iconName": "pawprint.fill",
+    "description": "Koala capital of Australia."
+  },
+  {
+    "id": "CDEFA234-5678-9ABC-DE01-23456789ABCD",
+    "destination": "Albury",
+    "flightNumber": "AE2315",
+    "iconName": "car.fill",
+    "description": "Border city charm."
+  },
+  {
+    "id": "DEFA2345-6789-ABCD-E012-3456789ABCDE",
+    "destination": "Tamworth",
+    "flightNumber": "AE2416",
+    "iconName": "guitars.fill",
+    "description": "Home of Australian country music."
+  },
+  {
+    "id": "EFA23456-789A-BCDE-0123-456789ABCDEF",
+    "destination": "Karratha",
+    "flightNumber": "AE2517",
+    "iconName": "flame.fill",
+    "description": "Pilbara landscapes and industry."
+  },
+  {
+    "id": "FA234567-89AB-CDEF-0123-456789ABCDE0",
+    "destination": "Geraldton",
+    "flightNumber": "AE2618",
+    "iconName": "sailboat.fill",
+    "description": "Windy city by the sea."
+  },
+  {
+    "id": "A2345678-9ABC-DEF0-1234-56789ABCDE01",
+    "destination": "Bendigo",
+    "flightNumber": "AE2719",
+    "iconName": "tram.circle.fill",
+    "description": "Gold rush heritage."
+  },
+  {
+    "id": "23456789-ABCD-EF01-2345-6789ABCDE012",
+    "destination": "Toowoomba",
+    "flightNumber": "AE2820",
+    "iconName": "flower.fill",
+    "description": "Garden City of Queensland."
+  },
+  {
+    "id": "3456789A-BCDE-F012-3456-789ABCDE0123",
+    "destination": "Darwin (Night Flight)",
+    "flightNumber": "AE2921",
+    "iconName": "moon.stars.fill",
+    "description": "Late‑night journey to the tropics."
+  }
+]
