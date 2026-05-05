@@ -1,0 +1,93 @@
+[
+  {
+    "id": "L1B2C3D4-1234-5678-90AB-CDEF12345678",
+    "name": "Sydney Lounge",
+    "latitude": -33.9399,
+    "longitude": 151.1753
+  },
+  {
+    "id": "L5E6D7C8-1234-5678-90AB-CDEF12345678",
+    "name": "Melbourne Lounge",
+    "latitude": -37.6690,
+    "longitude": 144.8410
+  },
+  {
+    "id": "L90AB12C-1234-5678-90AB-CDEF12345678",
+    "name": "Brisbane Lounge",
+    "latitude": -27.3942,
+    "longitude": 153.1218
+  },
+  {
+    "id": "LEF34567-1234-5678-90AB-CDEF12345678",
+    "name": "Perth Lounge",
+    "latitude": -31.9385,
+    "longitude": 115.9672
+  },
+
+  {
+    "id": "L1111111-2222-3333-4444-555555555555",
+    "name": "Adelaide Lounge",
+    "latitude": -34.9382,
+    "longitude": 138.5376
+  },
+  {
+    "id": "L6666666-7777-8888-9999-AAAAAAAAAAAA",
+    "name": "Canberra Lounge",
+    "latitude": -35.3069,
+    "longitude": 149.1950
+  },
+  {
+    "id": "LBBBBBBB-CCCC-DDDD-EEEE-FFFFFFFFFFFF",
+    "name": "Darwin Lounge",
+    "latitude": -12.4148,
+    "longitude": 130.8767
+  },
+  {
+    "id": "L1234567-89AB-CDEF-0123-456789ABCDEF",
+    "name": "Hobart Lounge",
+    "latitude": -42.8360,
+    "longitude": 147.5107
+  },
+  {
+    "id": "LABCDEF1-2345-6789-ABCD-EF1234567890",
+    "name": "Auckland Lounge",
+    "latitude": -37.0082,
+    "longitude": 174.7850
+  },
+  {
+    "id": "LFEDCBA9-8765-4321-FEED-C0FFEE123456",
+    "name": "Wellington Lounge",
+    "latitude": -41.3272,
+    "longitude": 174.8050
+  },
+  {
+    "id": "L0A1B2C3-D4E5-F678-9ABC-1234567890AB",
+    "name": "Singapore Lounge",
+    "latitude": 1.3644,
+    "longitude": 103.9915
+  },
+  {
+    "id": "L1A2B3C4-D5E6-F708-192A-BCDEF1029384",
+    "name": "Tokyo Lounge",
+    "latitude": 35.5494,
+    "longitude": 139.7798
+  },
+  {
+    "id": "L2B3C4D5-E6F7-0819-2ABC-DEF123987654",
+    "name": "Los Angeles Lounge",
+    "latitude": 33.9425,
+    "longitude": -118.4081
+  },
+  {
+    "id": "L3C4D5E6-F708-192A-3BCD-EF123456789A",
+    "name": "London Lounge",
+    "latitude": 51.4700,
+    "longitude": -0.4543
+  },
+  {
+    "id": "L4D5E6F7-0819-2ABC-4DEF-123456789ABC",
+    "name": "Hong Kong Lounge",
+    "latitude": 22.3080,
+    "longitude": 113.9185
+  }
+]
